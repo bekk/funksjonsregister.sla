@@ -8,3 +8,4 @@ spec:
     - ./groups/sla-test.yaml
     - ./kartverket/kartverket.yaml
     - ./kartverket/eksempel/eksempel.yaml
+    - ./kartverket/test-funksjon/test-funksjon.yaml

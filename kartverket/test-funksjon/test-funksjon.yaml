@@ -1,0 +1,10 @@
+apiVersion: kartverket.dev/v1alpha1
+kind: Function
+metadata:
+  name: test-funksjon
+  title: Test-funksjon
+  description: Test av skjemaet i SLA klyngen
+spec:
+  type: ""
+  owner: group:default/sla-test
+  parentFunction: function:default/kartverket
