@@ -9,3 +9,4 @@ spec:
     - ./kartverket/tjenesteovervaking/tjenesteovervaking.yaml
     - ./kartverket/tjenesteovervaking/test/test.yaml
     - ./kartverket/Eiendom/Eiendom.yaml
+    - ./kartverket/Geodesi/Geodesi.yaml
