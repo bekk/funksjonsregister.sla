@@ -1,0 +1,8 @@
+apiVersion: kartverket.dev/v1alpha1
+kind: Function
+metadata:
+  name: Eiendom
+spec:
+  type: ""
+  owner: group:default/eiendom
+  parentFunction: function:default/kartverket

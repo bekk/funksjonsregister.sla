@@ -8,3 +8,4 @@ spec:
     - ./kartverket/kartverket.yaml
     - ./kartverket/tjenesteovervaking/tjenesteovervaking.yaml
     - ./kartverket/tjenesteovervaking/test/test.yaml
+    - ./kartverket/Eiendom/Eiendom.yaml
