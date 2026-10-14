@@ -14,3 +14,5 @@ spec:
     - ./kartverket/Land/Land.yaml
     - ./kartverket/Sjo/Sjo.yaml
     - ./kartverket/Eiendom/Matrikkel/Matrikkel.yaml
+    - ./kartverket/IT/Plattform/Plattform.yaml
+    - ./kartverket/IT/Plattform/Observerbarhetsplattformen/Observerbarhetsplattformen.yaml
