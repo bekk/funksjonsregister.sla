@@ -1,0 +1,8 @@
+apiVersion: kartverket.dev/v1alpha1
+kind: Function
+metadata:
+  name: Tinglysning
+spec:
+  type: ""
+  owner: group:default/egenregistrering
+  parentFunction: function:default/eiendom
