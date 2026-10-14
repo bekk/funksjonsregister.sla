@@ -1,0 +1,9 @@
+apiVersion: kartverket.dev/v1alpha1
+kind: Function
+metadata:
+  name: Matrikkel
+spec:
+  type: ""
+  owner: group:default/heimdall
+  parentFunction: function:default/eiendom
+  criticality: Høy

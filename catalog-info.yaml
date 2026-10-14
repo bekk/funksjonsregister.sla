@@ -13,3 +13,4 @@ spec:
     - ./kartverket/IT/IT.yaml
     - ./kartverket/Land/Land.yaml
     - ./kartverket/Sjo/Sjo.yaml
+    - ./kartverket/Eiendom/Matrikkel/Matrikkel.yaml
