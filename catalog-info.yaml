@@ -11,3 +11,4 @@ spec:
     - ./kartverket/Eiendom/Eiendom.yaml
     - ./kartverket/Geodesi/Geodesi.yaml
     - ./kartverket/IT/IT.yaml
+    - ./kartverket/Land/Land.yaml

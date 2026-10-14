@@ -1,0 +1,8 @@
+apiVersion: kartverket.dev/v1alpha1
+kind: Function
+metadata:
+  name: Land
+spec:
+  type: ""
+  owner: group:default/land
+  parentFunction: function:default/kartverket
