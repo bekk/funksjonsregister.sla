@@ -1,0 +1,9 @@
+apiVersion: kartverket.dev/v1alpha1
+kind: Function
+metadata:
+  name: Grafana-cloud
+  title: Grafana cloud
+spec:
+  type: ""
+  owner: group:default/skoop
+  parentFunction: function:default/observerbarhetsplattformen
