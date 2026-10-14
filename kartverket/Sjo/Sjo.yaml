@@ -1,0 +1,9 @@
+apiVersion: kartverket.dev/v1alpha1
+kind: Function
+metadata:
+  name: Sjo
+  title: Sjø
+spec:
+  type: ""
+  owner: group:default/sj
+  parentFunction: function:default/kartverket

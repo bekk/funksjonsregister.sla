@@ -12,3 +12,4 @@ spec:
     - ./kartverket/Geodesi/Geodesi.yaml
     - ./kartverket/IT/IT.yaml
     - ./kartverket/Land/Land.yaml
+    - ./kartverket/Sjo/Sjo.yaml
