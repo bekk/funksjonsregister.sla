@@ -15,3 +15,4 @@ spec:
     - ./kartverket/Sjo/Sjo.yaml
     - ./kartverket/IT/Plattform/Plattform.yaml
     - ./kartverket/IT/Plattform/Observerbarhetsplattformen/Observerbarhetsplattformen.yaml
+    - ./kartverket/Eiendom/Matrikkel/Matrikkel.yaml
