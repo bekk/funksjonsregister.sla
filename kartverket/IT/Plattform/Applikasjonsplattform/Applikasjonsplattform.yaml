@@ -1,0 +1,9 @@
+apiVersion: kartverket.dev/v1alpha1
+kind: Function
+metadata:
+  name: Applikasjonsplattform
+  description: SKIP
+spec:
+  type: ""
+  owner: group:default/skip
+  parentFunction: function:default/plattform
