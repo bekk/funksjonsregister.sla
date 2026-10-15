@@ -1,0 +1,11 @@
+apiVersion: kartverket.dev/v1alpha1
+kind: Function
+metadata:
+  name: Utviklerportalen
+spec:
+  type: ""
+  owner: group:default/skvis
+  dependsOnFunctions:
+    - function:default/Regelrett
+    - function:default/Kodenaer_RoS
+  parentFunction: function:default/sikkerhetsverktoy
