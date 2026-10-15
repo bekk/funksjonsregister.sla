@@ -19,3 +19,4 @@ spec:
     - ./kartverket/IT/Plattform/Applikasjonsplattform/Applikasjonsplattform.yaml
     - ./kartverket/IT/Plattform/Observerbarhetsplattformen/Grafana-cloud/Grafana-cloud.yaml
     - ./kartverket/IT/Sikkerhetsverktoy/Sikkerhetsverktoy.yaml
+    - ./kartverket/IT/Sikkerhetsverktoy/Regelrett/Regelrett.yaml
