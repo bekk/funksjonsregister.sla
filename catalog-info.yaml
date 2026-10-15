@@ -16,7 +16,6 @@ spec:
     - ./kartverket/IT/Plattform/Plattform.yaml
     - ./kartverket/IT/Plattform/Observerbarhetsplattformen/Observerbarhetsplattformen.yaml
     - ./kartverket/Eiendom/Matrikkel/Matrikkel.yaml
-    - ./kartverket/IT/Sikkerhetsverktøy/Sikkerhetsverktøy.yaml
     - ./kartverket/IT/Plattform/Applikasjonsplattform/Applikasjonsplattform.yaml
     - ./kartverket/IT/Plattform/Observerbarhetsplattformen/Grafana-cloud/Grafana-cloud.yaml
     - ./kartverket/IT/Sikkerhetsverktoy/Sikkerhetsverktoy.yaml
