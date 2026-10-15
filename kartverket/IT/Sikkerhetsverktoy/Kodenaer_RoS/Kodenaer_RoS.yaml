@@ -1,0 +1,9 @@
+apiVersion: kartverket.dev/v1alpha1
+kind: Function
+metadata:
+  name: Kodenaer_RoS
+  title: Kodenær RoS
+spec:
+  type: ""
+  owner: group:default/skvis
+  parentFunction: function:default/sikkerhetsverktoy

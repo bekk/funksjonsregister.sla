@@ -20,3 +20,4 @@ spec:
     - ./kartverket/IT/Plattform/Observerbarhetsplattformen/Grafana-cloud/Grafana-cloud.yaml
     - ./kartverket/IT/Sikkerhetsverktoy/Sikkerhetsverktoy.yaml
     - ./kartverket/IT/Sikkerhetsverktoy/Regelrett/Regelrett.yaml
+    - ./kartverket/IT/Sikkerhetsverktoy/Kodenaer_RoS/Kodenaer_RoS.yaml
