@@ -1,7 +1,7 @@
 apiVersion: kartverket.dev/v1alpha1
 kind: Function
 metadata:
-  name: Sikkerhetsverktøy
+  name: Sikkerhetsverktoy
 spec:
   type: ""
   owner: group:default/skvis
