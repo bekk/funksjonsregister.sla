@@ -8,3 +8,5 @@ spec:
   parentFunction: function:default/sikkerhetsverktoy
   dependsOnComponents:
     - component:default/regelrett
+  dependsOnSystems:
+    - system:default/skjema-register
