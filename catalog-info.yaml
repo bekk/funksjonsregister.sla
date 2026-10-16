@@ -25,3 +25,4 @@ spec:
     - ./kartverket/IT/Plattform/Observerbarhetsplattformen/Automatisk_SLO_i_Grafana_cloud/Automatisk_SLO_i_Grafana_cloud.yaml
     - ./kartverket/IT/Plattform/Observerbarhetsplattformen/Automatisk_SLO_i_Grafana_cloud/SLO-terraform-pipeline/SLO-terraform-pipeline.yaml
     - ./kartverket/IT/Plattform/Observerbarhetsplattformen/Automatisk_SLO_i_Grafana_cloud/SLO_konfigurering/SLO_konfigurering.yaml
+    - ./kartverket/IT/Sikkerhetsverktoy/Regelrett/Fylle_ut_sikkerhetsskjema/Fylle_ut_sikkerhetsskjema.yaml
