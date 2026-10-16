@@ -12,3 +12,5 @@ spec:
   parentFunction: function:default/observerbarhetsplattformen
   dependsOnSystems:
     - system:default/grafana-slo
+  dependsOnComponents:
+    - component:default/app-metrics-exporter
