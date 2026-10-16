@@ -6,9 +6,9 @@ metadata:
 spec:
   type: ""
   owner: group:default/fleks-grafanaslo
-  dependsOnComponents:
-    - component:default/regelrett
   dependsOnFunctions:
     - function:default/Regelrett
     - function:default/Grafana-cloud
   parentFunction: function:default/observerbarhetsplattformen
+  dependsOnSystems:
+    - system:default/grafana-slo
