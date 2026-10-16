@@ -1,0 +1,9 @@
+apiVersion: kartverket.dev/v1alpha1
+kind: Function
+metadata:
+  name: Slette_skjemautfylling
+  title: Slette skjemautfylling
+spec:
+  type: ""
+  owner: group:default/skvis
+  parentFunction: function:default/regelrett
