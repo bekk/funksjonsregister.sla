@@ -22,3 +22,6 @@ spec:
     - ./kartverket/IT/Sikkerhetsverktoy/Regelrett/Regelrett.yaml
     - ./kartverket/IT/Sikkerhetsverktoy/Kodenaer_RoS/Kodenaer_RoS.yaml
     - ./kartverket/IT/Sikkerhetsverktoy/Utviklerportalen/Utviklerportalen.yaml
+    - ./kartverket/IT/Plattform/Observerbarhetsplattformen/Automatisk_SLO_i_Grafana_cloud/Automatisk_SLO_i_Grafana_cloud.yaml
+    - ./kartverket/IT/Plattform/Observerbarhetsplattformen/Automatisk_SLO_i_Grafana_cloud/SLO-terraform-pipeline/SLO-terraform-pipeline.yaml
+    - ./kartverket/IT/Plattform/Observerbarhetsplattformen/Automatisk_SLO_i_Grafana_cloud/SLO_konfigurering/SLO_konfigurering.yaml

@@ -1,0 +1,14 @@
+apiVersion: kartverket.dev/v1alpha1
+kind: Function
+metadata:
+  name: Automatisk_SLO_i_Grafana_cloud
+  title: Automatisk SLO i Grafana cloud
+spec:
+  type: ""
+  owner: group:default/fleks-grafanaslo
+  dependsOnComponents:
+    - component:default/regelrett
+  dependsOnFunctions:
+    - function:default/Regelrett
+    - function:default/Grafana-cloud
+  parentFunction: function:default/observerbarhetsplattformen

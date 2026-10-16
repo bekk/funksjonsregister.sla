@@ -1,0 +1,9 @@
+apiVersion: kartverket.dev/v1alpha1
+kind: Function
+metadata:
+  name: SLO_konfigurering
+  title: SLO konfigurering
+spec:
+  type: ""
+  owner: group:default/fleks-grafanaslo
+  parentFunction: function:default/automatisk_slo_i_grafana_cloud
