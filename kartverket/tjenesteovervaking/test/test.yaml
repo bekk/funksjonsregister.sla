@@ -1,9 +1,0 @@
-apiVersion: kartverket.dev/v1alpha1
-kind: Function
-metadata:
-  name: test
-  title: a
-spec:
-  type: ""
-  owner: group:default/fleks-grafanaslo
-  parentFunction: function:default/tjenesteovervaking
