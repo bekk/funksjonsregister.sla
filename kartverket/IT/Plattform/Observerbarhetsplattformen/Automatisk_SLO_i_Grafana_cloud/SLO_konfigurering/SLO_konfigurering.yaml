@@ -7,3 +7,7 @@ spec:
   type: ""
   owner: group:default/fleks-grafanaslo
   parentFunction: function:default/automatisk_slo_i_grafana_cloud
+  dependsOnSystems:
+    - system:default/grafana-slo
+  dependsOnComponents:
+    - component:default/app-metrics-exporter
